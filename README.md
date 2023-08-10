@@ -1,16 +1,21 @@
-### Hi there 👋
+## О себе
 
-<!--
-**TatyanaPozharskaya/TatyanaPozharskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Татьяна Пожарская, с 2021 года я изучаю аналитику данных. Ранее я занималась анализом данных в рамках внешнеэкономической деятельности банков и компаний-юрлиц.
+Для углубления знаний в анализе прошла несколько онлайн курсов, с помощью которых освоила Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. На академических проектах практиковалась в проведении статистических тестов, создании дашбордов в Tableau, Superset, использовании Git, Redash, ClickHouse и Airflow.
 
-Here are some ideas to get you started:
+## Контакты: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://t.me/TatyanaPozharskaya 
+
+## Обучение: 
+
+![image](https://github.com/TatyanaPozharskaya/TatyanaPozharskaya/assets/139341616/ab8e8cdd-0042-4f91-9971-15eeb105b7a7)
+
+![image](https://github.com/TatyanaPozharskaya/TatyanaPozharskaya/assets/139341616/b315f0b4-5f4a-4b33-bbc8-0d823404cf54)
+
+
+
+![image](https://github.com/TatyanaPozharskaya/TatyanaPozharskaya/assets/139341616/9855864b-5fb9-487d-8521-b972b2836c90) 
+
+
+
