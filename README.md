@@ -14,8 +14,8 @@ https://t.me/TatyanaPozharskaya
 ![image](https://github.com/TatyanaPozharskaya/TatyanaPozharskaya/assets/139341616/b315f0b4-5f4a-4b33-bbc8-0d823404cf54)
 
 
+![image](https://github.com/TatyanaPozharskaya/TatyanaPozharskaya/assets/139341616/e030abbd-1743-412b-819c-054c5ad18ac8)
 
-![image](https://github.com/TatyanaPozharskaya/TatyanaPozharskaya/assets/139341616/9855864b-5fb9-487d-8521-b972b2836c90) 
 
 
 
